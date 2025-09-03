@@ -6,3 +6,4 @@ This github organization has public repositories.
 ### Developers
 - [@minco_rl](https://www.github.com/minco_rl) (Discord: `minco_rl`)
 - [@ridanit-ruma](https://github.com/ridanit-ruma) (Discord: `ruma0607`)
+- [@ityeri](https://github.com/ityeri) (Discord: `t1h2e`)
